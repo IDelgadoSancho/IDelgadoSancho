@@ -42,4 +42,4 @@ Here are a few projects I've worked on:
 - **[Laravel API](https://github.com/IDelgadoSancho/m7_uf4_projecte):** A CRUD API created using Laravel, MySQL, and Angulal. 
 
 ## GitHub Stats
-![IDelgadoSancho's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDelgadoSancho&show_icons=true&theme=radical&hide_rank=true)
+![IDelgadoSancho's GitHub stats](https://github-readme-stats.vercel.app/api?username=IDelgadoSancho&show_icons=true&theme=neon&hide_rank=true)
